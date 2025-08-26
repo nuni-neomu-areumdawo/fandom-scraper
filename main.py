@@ -10,7 +10,8 @@ from collections import deque
 import traceback
 from concurrent.futures import ThreadPoolExecutor
 
-user_input = "Starting URL:"
+print("Enter Starting URL such as https://rezero.fandom.com/wiki/World_Timeline\n\n")
+user_input = input("Starting URL:" )
 BASE_URL = user_input.split("fandom.com")[0] + "fandom.com"
 START_PATH = user_input.split("fandom.com")[1]
 DUMP_DIR = './dump'
