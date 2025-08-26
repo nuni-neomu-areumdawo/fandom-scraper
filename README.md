@@ -2,9 +2,9 @@
 
 **_Download/Archive Your Favorite Fandom!_**
 
-<details>
+## Description
   This application provides a simple, easy-to-use way to back up fandom data. Just enter one URL!
-</details>
+  
 ## How to Use
 
 1.  Navigate to the folder where you installed the application.
